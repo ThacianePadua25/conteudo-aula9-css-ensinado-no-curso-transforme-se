@@ -1,0 +1,83 @@
+body{
+    background-color: brown;    
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.p-centro{
+
+    text-align: 
+    center;
+}
+
+    .p-direita{
+
+        text-align: 
+        direita;
+    }
+     
+.p-esquerda{
+    text-align: 
+    left;
+}
+
+.p-justificado{
+
+    
+    text-align: 
+    justify;
+}
+
+
+.ul-centro{
+
+    text-align: center;
+
+
+}
+
+.ul-direita{
+
+    text-align: right;
+
+
+}
+
+.ul-justificada{
+
+    text-align: justify;
+
+}
+
+.baseline{
+
+    vertical-align: text-baseline;
+
+
+}
+
+
+.text-top{
+
+    vertical-align: text-top;
+
+}
+
+.text-bottom{
+
+    vertical-align: text-bottom;
+
+
+}
+
+.super{
+
+    vertical-align: super;
+
+}
+
+.p-direction{
+
+    direction :rtl;
+unicode-bidi: bidi-override;
+
+}
